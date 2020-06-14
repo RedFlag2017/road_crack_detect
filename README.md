@@ -17,9 +17,7 @@ road_crack_detect ：利用深度学习技术，检测高速公路路面病害�
   python predict_highway.py
   ```
 运行结束后，标注后的图片会保存在./images_dst目录。
-识别效果如下图所示：
-左边为原图，右边为标注后的图片，可以看到道路中的裂缝被正确识别出来，并使用热力图进行了标注。
-![](assets/markdown-img-paste-20200614174804177.png)
+
 
 
 ## 其他说明
